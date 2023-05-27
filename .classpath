@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Tarefas/src/main/java"/>
+	<classpathentry kind="lib" path="Tarefas/src/main/webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar"/>
+	<classpathentry kind="lib" path="Tarefas/src/main/webapp/WEB-INF/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="Tarefas/src/main/webapp/WEB-INF/lib/mysql-connector.jar"/>
+	<classpathentry kind="output" path="Tarefas/build/classes"/>
+</classpath>
